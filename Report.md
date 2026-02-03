@@ -208,5 +208,3 @@ interface SimilarProduct {
 2. **AI モデル切替**: `ai-pipeline.ts` のモデル指定を変更するだけで異なるLLMに対応
 3. **データベース統合**: `mock-data.ts` を Oracle / MySQL 接続に置き換え可能
 4. **リアルタイム価格更新**: WebSocket でマーケット価格の変動を反映
-
-```
