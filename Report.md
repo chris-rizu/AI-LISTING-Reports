@@ -210,5 +210,3 @@ interface SimilarProduct {
 4. **リアルタイム価格更新**: WebSocket でマーケット価格の変動を反映
 
 ```
-Do you want me to do that?
-```
